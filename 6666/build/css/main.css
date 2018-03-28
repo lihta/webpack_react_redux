@@ -1,0 +1,39 @@
+/*! 版权所有，翻版必究 */
+.size {
+  width: 1000px;
+  height: 800px;
+}
+.size div {
+  width: 100%;
+  height: 500px;
+}
+.size div.red {
+  background: #faffbb;
+}
+.size div.blue {
+  background: #8694ff;
+}
+img {
+  width: 100px;
+  height: 100px;
+}
+.nav li:first-child {
+  float: left;
+  width: 100px;
+  height: 30px;
+  background: #74ee7b;
+}
+.nav li:last-child {
+  float: left;
+  width: 100px;
+  height: 30px;
+  background: #908fee;
+}
+.page2 {
+  width: 1000px;
+  height: 500px;
+  border: 2px solid darkblue;
+  text-align: center;
+  line-height: 250px;
+  font-size: 40px;
+}

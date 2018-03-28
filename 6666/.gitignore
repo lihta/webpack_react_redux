@@ -1,0 +1,12 @@
+node_modules/
+dev/
+.vscode
+*.zip
+.idea/
+.vs/
+/dist
+dist/
+npm-debug.log
+build/
+package-lock.json
+.project
